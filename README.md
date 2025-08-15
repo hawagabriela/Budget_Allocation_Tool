@@ -1,4 +1,4 @@
-# Weekly_Budget_Allocation_Tool
+# Weekly Budget Planner
 A simple budgeting program that calculates weekly budget allocations and remaining personal funds based on a total weekly budget  and user-defined percentages.
 ## Group Members
 - Jana Andrea Lozada
@@ -6,13 +6,9 @@ A simple budgeting program that calculates weekly budget allocations and remaini
 ### Project Proposal 
 #### Project Title
 - Weekly Budget Planner
-#### Problem Statement
-- Managing personal finances can be challenging for anyone, especially for those who struggle to keep track of their allowance. This tool helps users allocate weekly budget efficiently based on provided categories, making budgeting easier and more organized.
-#### Project Objectives
-- Helps users plan and track their weekly allowane efficiently
-- Provides a clear breakdown of budget allocation based on user-defined percentages.
-- Assist users in managaing their finances without overspending.
-- Encourage better financial habits through organized tracking.
+#### Overview / Description
+-This tool helps users manage their weekly allowance efficiently by allocating their budget based on defined categories, providing a clear breakdown of spending, assisting in avoiding overspending, 
+and promoting better financial habits.
 #### Planned features
 - Accepts weekly allowance input from the user.
 - Allows users to assign percentages (%) for five categories: Food, Savings, Bills, Discretionary, Transport.
@@ -20,20 +16,25 @@ A simple budgeting program that calculates weekly budget allocations and remaini
 - Calculates and displays the allocated amount for all categories.
 - Displays total percentage to ensure allocations are accurate.
 - Easy-to-use interface for input and results.
-#### Planned Inputs and Outputs
-*Inputs*
-- Weekly Allowance (provided by the user).
-- Percentage allocation (%) for five categories: Food, Savings, Bills, Discretionary, Transport.
+#### How to run / Requirements
+- You need Flowgorithm, Python, or your chosen platform installed to run the program.  
+- Open the program file "weekly_budget_planner.py"  
+- Follow the prompts to enter your weekly allowance and percentage allocations.  
+- The program will calculate and display the allocated amounts automatically.
+#### Sample Interaction / Example Output
+Enter your weekly allowance: 2000
+Enter percentage for Food: 25
+Enter percentage for Savings: 20
+Enter percentage for Bills: 15
+Enter percentage for Discretionary: 20
+Enter percentage for Transport: 10
 
-*Outputs*
-- Displays remaining percentage for the "Others" category.
-- Displays allocated amount for all categories.
-- Displays total percentage of the allocations.
-#### Logic Plan (Pseudocode)
-Start program  
-Prompt user to enter weekly allowance  
-Prompt user to enter percentage allocations for Food, Savings, Bills, Discretionary, and Transport  
-For each category, calculate the allocated amount based on weekly allowance  
-Assign any remaining allowance to the “Others” category  
-Display the calculated amounts for all categories and total percentage  
-End program
+Allocated Amounts:
+Food: 500
+Savings: 400
+Bills: 300
+Discretionary: 400
+Transport: 200
+The remaining percentage is 10%. Therefore, the allocated amount for the "Others" category is 200.
+Total Percentage: 100%
+
