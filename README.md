@@ -25,9 +25,9 @@ A simple budgeting program that calculates weekly budget allocations and remaini
 - Weekly Allowance (provided by the user).
 - Percentage allocation (%) for five categories: Food, Savings, Bills, Discretionary, Transport.
 *Outputs*
--Displays remaining percentage for the "Others" category.
--Displays allocated amount for all categories.
--Displays total percentage.
+- Displays remaining percentage for the "Others" category.
+- Displays allocated amount for all categories.
+- Displays total percentage.
 #### Logic Plan (Pseudocode)
 Start program  
 Prompt user to enter weekly allowance  
