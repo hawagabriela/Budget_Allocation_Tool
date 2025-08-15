@@ -34,7 +34,7 @@ Enter percentage for Discretionary: 20
 
 Enter percentage for Transport: 10
 
-Allocated Amounts:
+ALLOCATED AMOUNTS:
 
 Food: 500
 
