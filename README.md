@@ -28,7 +28,7 @@ A simple budgeting program that calculates weekly budget allocations and remaini
 *Outputs*
 - Displays remaining percentage for the "Others" category.
 - Displays allocated amount for all categories.
-- Displays total percentage.
+- Displays total percentage of the allocations.
 #### Logic Plan (Pseudocode)
 Start program  
 Prompt user to enter weekly allowance  
