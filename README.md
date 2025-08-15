@@ -23,18 +23,30 @@ and promoting better financial habits.
 - The program will calculate and display the allocated amounts automatically.
 #### Sample Interaction / Example Output
 Enter your weekly allowance: 2000
+
 Enter percentage for Food: 25
+
 Enter percentage for Savings: 20
+
 Enter percentage for Bills: 15
+
 Enter percentage for Discretionary: 20
+
 Enter percentage for Transport: 10
 
 Allocated Amounts:
+
 Food: 500
+
 Savings: 400
+
 Bills: 300
+
 Discretionary: 400
+
 Transport: 200
+
 The remaining percentage is 10%. Therefore, the allocated amount for the "Others" category is 200.
+
 Total Percentage: 100%
 
