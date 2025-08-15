@@ -6,7 +6,7 @@ A simple budgeting program that calculates weekly budget allocations and remaini
 ### Project Proposal 
 #### Project Title
 - Weekly Budget Allocation Tool
-#### Problem Statemen
+#### Problem Statement
 - Managing personal finances can be challenging for anyone, especially for those who struggle to keep track of their allowance. This tool helps users allocate weekly budget efficiently based on provided categories, making budgeting easier and more organized.
 #### Project Objectives
 - Helps users plan and track their weekly allowane efficiently
@@ -24,6 +24,7 @@ A simple budgeting program that calculates weekly budget allocations and remaini
 *Inputs*
 - Weekly Allowance (provided by the user)
 - Percentage allocation (%) for five categories: Food, Savings, Bills, Discretionary, Transport.
+
 *Outputs*
 -Displays remaining percentage for the "Others" category.
 -Displays allocated amount for all categories.
