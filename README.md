@@ -22,9 +22,8 @@ A simple budgeting program that calculates weekly budget allocations and remaini
 - Easy-to-use interface for input and results.
 #### Planned Inputs and Outputs
 *Inputs*
-- Weekly Allowance (provided by the user)
+- Weekly Allowance (provided by the user).
 - Percentage allocation (%) for five categories: Food, Savings, Bills, Discretionary, Transport.
-
 *Outputs*
 -Displays remaining percentage for the "Others" category.
 -Displays allocated amount for all categories.
