@@ -44,6 +44,6 @@ The remaining percentage is 10%. Therefore, the allocated amount for the "Others
 Total Percentage: 100%
 
 ## Contributors
-- Jana Andrea Lozada
-- John Cedric Galido
+- Jana Andrea Lozada (designed and drafted the README.md sections, tested the program calculations to ensure all categories add up correctly)
+- John Cedric Galido (created the CHANGELOG.md with all updates and version history, defined features, helped format the README.md and checked for spelling/grammar)
 
